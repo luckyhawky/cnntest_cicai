@@ -1,6 +1,6 @@
 Flow Status	Successful - Fri May 08 17:40:43 2026
 Quartus II 64-Bit Version	13.1.0 Build 162 10/23/2013 SJ Full Version
-Revision Name	fused_cnn_lite_single_core
+Revision Name	cnntest
 Top-level Entity Name	cnntest
 Family	Cyclone IV E
 Device	EP4CE6E22C6
